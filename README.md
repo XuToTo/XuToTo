@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm a Qt developer.
+
+I'm currently learning Linux Desktop Environment development.
+
+I learn about Web Development and DevOps. 
+
 <!--
 **XuToTo/XuToTo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
