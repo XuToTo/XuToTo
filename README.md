@@ -2,7 +2,7 @@
 
 I'm a Qt developer.
 
-I'm currently learning Linux Desktop Environment development.
+I'm currently learning Linux Desktop Environment development and working on a complicated HMI project.
 
 I learn about Web Development and DevOps. 
 
