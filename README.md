@@ -6,6 +6,13 @@ I'm currently learning Linux Desktop Environment development and working on a co
 
 I learn about Web Development and DevOps. 
 
+---
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=XuToTo&show_icons=true&count_private=true&hide=contribs" width="450" height="150" />&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XuToTo&layout=compact&hide=html,css" width="375" />
+</p>
+
 <!--
 **XuToTo/XuToTo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
