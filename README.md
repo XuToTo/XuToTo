@@ -6,7 +6,7 @@ I'm currently learning Linux Desktop Environment development and working on a co
 
 I learn about Web Development and DevOps. 
 
-You can follow me on [YuQue(语雀)](https://www.yuque.com/xutoto) / [JueJin(掘金)](https://juejin.cn/user/3104676567071710) or [my personal site](https://xutoto.im)
+You can follow me on [YuQue(语雀)](https://www.yuque.com/xutoto) / [JueJin(掘金)](https://juejin.cn/user/3104676567071710) / [Dev.to](https://github.com/csr632/awesome-learning-resources)(English Only) or [my personal site](https://xutoto.im)
 
 ---
 
