@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Qt developer.
+I'm a Qt/C++ developer.
 
 I'm currently learning Linux Desktop Environment development and working on a complicated HMI project.
 
