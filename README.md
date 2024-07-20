@@ -1,12 +1,8 @@
 ### Hi there 👋
 
-I'm a Qt/C++ developer.
+I'm a senior Qt/C++ developer.
 
-I'm currently learning Linux Desktop Environment development and working on a complicated HMI project.
-
-I learn about Web Development and DevOps, maybe a little UI design, like Figma :P. 
-
-You can follow me on [YuQue(语雀)](https://www.yuque.com/xutoto) / [JueJin(掘金)](https://juejin.cn/user/3104676567071710) or [my personal site](https://xutoto.im), and contact me by E-mail.
+You can follow me on [YuQue(语雀)](https://www.yuque.com/xutoto) / [JueJin(掘金)](https://juejin.cn/user/3104676567071710) or [my personal blog site](https://xutoto.im), and contact me by E-mail.
 
 <!--
 ---
