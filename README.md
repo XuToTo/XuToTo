@@ -4,7 +4,7 @@ I'm a senior Qt/C++ developer.
 
 You can follow me on [YuQue(语雀)](https://www.yuque.com/xutoto) / [JueJin(掘金)](https://juejin.cn/user/3104676567071710) or [my blog](https://xutoto.im).
 
-Contact me by E-mail if you intend to purchase for my Qt/C++ libs.
+Contact me by E-mail if you intend to get my Qt/C++ libs.
 
 <!--
 ---
